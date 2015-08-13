@@ -4,8 +4,7 @@ Our mission is to create a collection of classic open source games.
 
 Play the game at `benscole.github.io/github-games`
 
-To play the game
-
-1. Press the space bar to start
-2. Use arrow keys to navigate
-3. Clear rows as fast as you can
+Press space bar to begin.
+Use up-arrow to flip orientation of the pieces as they fall.
+Use left- and right-arrows to move the pieces laterally.
+Use the down-arrow to accellerate the descent of the pieces.
